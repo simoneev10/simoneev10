@@ -20,7 +20,6 @@ Mi affascina anche l’aspetto **etico dell’Intelligenza Artificiale**, tema c
 - **Linguaggi:** Python, Java, C, C++, JavaScript, HTML, SQL, Swift  
 - **Librerie & Tools:** Pandas, Numpy, Matplotlib, Git, Jenkins, Maven, Excel  
 - **Ambiti:** Machine Learning, Data Engineering, sviluppo backend  
-- **OS & Altro:** Linux, Matlab, GitHub
 
 ---
 
