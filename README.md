@@ -9,7 +9,7 @@
 
 ## 🚀 Chi sono
 
-Appassionato di tecnologia e informatica fin da giovane, ho maturato un forte interesse per il **Machine Learning** durante il mio percorso universitario, grazie all’esperienza con l’**Apple Developer Academy**. Ho lavorato su sistemi complessi e molto grandi in ambito enterprise in particolar modo in **Capgemini**, principalemente con Java e Db. Attualmente sto approfondendo le tematiche legate a **Data & AI**, sia sul piano pratico che teorico, acnhe grazie alla partecipazione al **Python & Machine Learning Academy**.
+Appassionato di tecnologia e informatica fin da giovane, ho maturato un forte interesse per il **Machine Learning** durante il mio percorso universitario, grazie all’esperienza con l’**Apple Developer Academy**. Ho lavorato su sistemi complessi e molto grandi in ambito enterprise in particolar modo in **Capgemini**, principalemente con Java e Db. Attualmente sto approfondendo le tematiche legate a **Data & AI**, sia sul piano pratico che teorico, anche grazie alla partecipazione a **Python & Machine Learning Academy**.
 
 Mi affascina anche l’aspetto **etico dell’Intelligenza Artificiale**, tema che esploro con curiosità attraverso media e studi indipendenti. Amo lavorare in team, affrontare nuove sfide e contribuire a progetti innovativi con un approccio positivo e collaborativo.
 
