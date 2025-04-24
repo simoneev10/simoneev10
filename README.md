@@ -37,6 +37,16 @@ Mi affascina anche l’aspetto **etico dell’Intelligenza Artificiale**, tema c
 Questo repository raccoglie esercizi, appunti e progetti sviluppati durante il corso Python & Machine Learning Academy.
 Il percorso formativo parte da un’introduzione teorica con una ripetizione dei concetti fondamentali di UML (Unified Modeling Language), per poi proseguire con un apprendimento graduale del linguaggio Python, partendo dalle basi fino ad arrivare all’utilizzo delle principali librerie per la data science e il machine learning.
 
+---
+## 🔮 Progetti in evidenza 
+Ecco alcuni dei progetti che ho sviluppato e condiviso su GitHub:
+
+- [Analisi predittiva su churn rate](https://github.com/simoneev10/SimoneVerrengia_DepositoCorsoPython/tree/main/23_04_CorsoPython_VisualizzazioneDati/EsercizioCompagniaTelecomunicazioni): Un progetto che utilizza pandas, numpy e scikit-learn per analizzare i dati dei clienti e prevedere il churn rate di una compagnia di telecomunicazioni.
+- [Gestione Pasticceria](https://github.com/simoneev10/ProgettoDiGruppo_GestionePasticceria): Un sistema di gestione per una pasticceria specializzata nelle torte, implementato in Python.
+- [Analisi Dati Pokémon](https://github.com/simoneev10/Progetto-DB-Pokemon/tree/Branch-Simo-): Creazione di un database sui Pokémon, si eseguono varie analisi sulle statistiche dei Pokémon, tra cui altezza, peso, esperienza di base e statistiche di combattimento
+
+---
+
 📚 Argomenti trattati:
 - Ripasso di UML per la modellazione dei dati
 
