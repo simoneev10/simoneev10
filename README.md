@@ -3,7 +3,7 @@
 **Data Engineer/Analyst & ML Enthusiast**  
 📍 Cellole (CE), Italia  
 📧 [simoneev1010@gmail.com](mailto:simoneev1010@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/simone-verrengia-a572642233/) • [GitHub](https://github.com/simoneev10)
+🔗 [LinkedIn](https://www.linkedin.com/in/simone-verrengia-a57264233/) • [GitHub](https://github.com/simoneev10)
 
 ---
 
