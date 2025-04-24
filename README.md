@@ -1,6 +1,6 @@
 # 👨‍💻 Simone Verrengia
 
-**Data Engineer/Analyst & ML Enthusiast**  
+## Data Engineer/Analyst & ML Enthusiast**  
 📍 Cellole (CE), Italia  
 📧 [simoneev1010@gmail.com](mailto:simoneev1010@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/simone-verrengia-a57264233/) • [GitHub](https://github.com/simoneev10)
@@ -32,7 +32,7 @@ Mi affascina anche l’aspetto **etico dell’Intelligenza Artificiale**, tema c
 
 ---
 
-## 🔮 Progetti in evidenza 
+## 🔮 Progetti 
 Ecco alcuni dei progetti sia personali, sia che ho sviluppato durante il corso Python & Machine Learning:
 
 - [Analisi predittiva su churn rate](https://github.com/simoneev10/SimoneVerrengia_DepositoCorsoPython/tree/main/23_04_CorsoPython_VisualizzazioneDati/EsercizioCompagniaTelecomunicazioni): Un progetto che utilizza pandas, numpy e scikit-learn per analizzare i dati dei clienti e prevedere il churn rate di una compagnia di telecomunicazioni.
@@ -61,6 +61,10 @@ Utilizzo delle librerie:
 - Pandas per la manipolazione e l'analisi dei dati
 
 - Matplotlib e Seaborn per la visualizzazione dei dati
+
+- Scikit-learn per l’implementazione di algoritmi di machine learning tradizionali
+
+- TensorFlow per la costruzione di modelli di deep learning
 
 Introduzione al Machine Learning:
 
