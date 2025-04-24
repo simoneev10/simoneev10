@@ -1,6 +1,6 @@
 # 👨‍💻 Simone Verrengia
 
-**Data Engineer & ML Enthusiast**  
+**Data Engineer/Analyst & ML Enthusiast**  
 📍 Cellole (CE), Italia  
 📧 [simoneev1010@gmail.com](mailto:simoneev1010@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/simone-verrengia-a572642233/) • [GitHub](https://github.com/simoneev10)
@@ -9,7 +9,7 @@
 
 ## 🚀 Chi sono
 
-Appassionato di tecnologia e informatica fin da giovane, ho maturato un forte interesse per il **Machine Learning** durante il mio percorso universitario, grazie all’esperienza con l’**Apple Developer Academy**. Ho lavorato su sistemi complessi e molto grandi in ambito enterprise, principalemente con Java e Db. Attualmente sto approfondendo le tematiche legate a **Data & AI**, sia sul piano pratico che teorico, acnhe grazie alla partecipazione al **Python & Machine Learning Academy**.
+Appassionato di tecnologia e informatica fin da giovane, ho maturato un forte interesse per il **Machine Learning** durante il mio percorso universitario, grazie all’esperienza con l’**Apple Developer Academy**. Ho lavorato su sistemi complessi e molto grandi in ambito enterprise in particolar modo in **Capgemini**, principalemente con Java e Db. Attualmente sto approfondendo le tematiche legate a **Data & AI**, sia sul piano pratico che teorico, acnhe grazie alla partecipazione al **Python & Machine Learning Academy**.
 
 Mi affascina anche l’aspetto **etico dell’Intelligenza Artificiale**, tema che esploro con curiosità attraverso media e studi indipendenti. Amo lavorare in team, affrontare nuove sfide e contribuire a progetti innovativi con un approccio positivo e collaborativo.
 
@@ -17,20 +17,45 @@ Mi affascina anche l’aspetto **etico dell’Intelligenza Artificiale**, tema c
 
 ## 🧠 Competenze
 
-- **Linguaggi:** Python, Java, C, C++, JavaScript, HTML, SQL, Swift  
-- **Librerie & Tools:** Pandas, Numpy, Matplotlib, Git, Jenkins, Maven, Excel  
-- **Ambiti:** Machine Learning, Data Engineering, sviluppo backend  
+- **Linguaggi:** Python, Java, C, C++, JavaScript, SQL, Swift  
+- **Librerie & Tools:** Pandas, Numpy, Matplotlib, Matlab, Git, Jenkins, Maven, Excel    
 
 ---
 
 ## 🎓 Formazione & Esperienze chiave
 
-- **Capgemini (2022–2024):** Sviluppo e manutenzione di sistemi di fatturazione elettronica (Java, database, ticketing system)
+- **Capgemini (2022–2024):** Sviluppo e manutenzione di sistemi di fatturazione elettronica (Java, Database, ticketing system)
 - **Laurea Triennale in Informatica** – Università degli Studi di Napoli "Parthenope"
 - **Laurea Magistrale in Ingegneria della Sicurezza** – Università Telematica Pegaso
 - **Apple Developer Academy** (Base & Advanced Course)
-- **Python & Machine Learning Academy** – GiGroup
+- **Python & Machine Learning Academy** – GiGroup - ITConsulting
 
 ---
+
+## ⏳ In corso - Python & Machine Learning Academy
+
+Questo repository raccoglie esercizi, appunti e progetti sviluppati durante il corso Python & Machine Learning Academy.
+Il percorso formativo parte da un’introduzione teorica con una ripetizione dei concetti fondamentali di UML (Unified Modeling Language), per poi proseguire con un apprendimento graduale del linguaggio Python, partendo dalle basi fino ad arrivare all’utilizzo delle principali librerie per la data science e il machine learning.
+
+📚 Argomenti trattati:
+- Ripasso di UML per la modellazione dei dati
+
+- Fondamenti di programmazione in Python
+
+Utilizzo delle librerie:
+
+- NumPy per la gestione efficiente degli array
+
+- Pandas per la manipolazione e l'analisi dei dati
+
+- Matplotlib e Seaborn per la visualizzazione dei dati
+
+Introduzione al Machine Learning:
+
+- Algoritmi di apprendimento supervisionato e non supervisionato
+
+- Preprocessing dei dati
+
+- Modellazione e valutazione delle performance
 
 📌 Sempre aperto a nuove opportunità nel mondo **Data, AI e sviluppo software**.
