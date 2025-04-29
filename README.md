@@ -35,11 +35,11 @@ Mi affascina anche l’aspetto **etico dell’Intelligenza Artificiale**, tema c
 ## 🔮 Progetti 
 Ecco alcuni dei progetti sia personali, sia che ho sviluppato durante il corso Python & Machine Learning:
 
+- [Analisi Dati Titanic con ML](https://github.com/simoneev10/ML-Titanic): Un progetto che mira ad "esplorare" e "pulire" un dataset preso da Kaggle in formato csv, riguardante i sopravvissuti del titanic, ed infine utilizzo di un modello e per prevedere la tendenza a sopravvivere.
+- [Analisi predittiva dei prezzi immobiliari](https://github.com/simoneev10/ML-House-s-Prices): Un progetto che utilizza pandas, seaborn e scikit-learn per prevedere il prezzo delle case tramite regressione lineare, Ridge e Lasso, con gestione della multicollinearità tramite VIF e visualizzazione dei risultati.
 - [Analisi predittiva su churn rate](https://github.com/simoneev10/SimoneVerrengia_DepositoCorsoPython/tree/main/23_04_CorsoPython_VisualizzazioneDati/EsercizioCompagniaTelecomunicazioni): Un progetto che utilizza pandas, numpy e scikit-learn per analizzare i dati dei clienti e prevedere il churn rate di una compagnia di telecomunicazioni.
 - [Gestione Pasticceria](https://github.com/simoneev10/ProgettoDiGruppo_GestionePasticceria): Un sistema di gestione per una pasticceria specializzata nelle torte, implementato in Python.
 - [Analisi Dati Pokémon](https://github.com/simoneev10/Progetto-DB-Pokemon/tree/Branch-Simo-): Creazione di un database sui Pokémon, si eseguono varie analisi sulle statistiche dei Pokémon, tra cui altezza, peso, esperienza di base e statistiche di combattimento
-- [Analisi Calcistica](https://github.com/simoneev10/InternationalFootballResults): Un progetto che mira ad "esplorare" e "pulire" un dataset preso da Kaggle in formato csv, ed infine utilizzo di un modello e per prevedere la tendenza delle migliori squadre.
-- [Analisi sulle Top aziende (Unicorn)](https://github.com/simoneev10/Project-Analysis-Unicorn): Progetto che esplora le top aziende per valutazione nel mondo, con pulizia ed esplorazione dei dati. Infine si applica un semplice modello predittivo di ML.
 
 ---
 
