@@ -43,9 +43,9 @@ Ecco alcuni dei progetti sia sviluppati durante il corso Python & Machine Learni
 
 ---
 
-## ⏳ In corso - Python & Machine Learning Academy
+## Python & Machine Learning Academy
 
-Questo repository raccoglie esercizi, appunti e progetti sviluppati durante il corso Python & Machine Learning Academy.
+Questa [repository](https://github.com/simoneev10/SimoneVerrengia_DepositoCorsoPython) raccoglie esercizi, appunti e progetti sviluppati durante il corso Python & Machine Learning Academy.
 Il percorso formativo parte da un’introduzione teorica con una ripetizione dei concetti fondamentali di UML (Unified Modeling Language), per poi proseguire con un apprendimento graduale del linguaggio Python, partendo dalle basi fino ad arrivare all’utilizzo delle principali librerie, e modelli per il machine learning e la data science.
 
 ---
