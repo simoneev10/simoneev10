@@ -25,28 +25,28 @@ Mi affascina anche l’aspetto **etico dell’Intelligenza Artificiale**, tema c
 ## 🎓 Formazione & Esperienze chiave
 
 - **Capgemini (2022–2024):** Sviluppo e manutenzione di sistemi di fatturazione elettronica (Java, Database, ticketing system)
+- **Python & Machine Learning Academy** – GiGroup
 - **Laurea Triennale in Informatica** – Università degli Studi di Napoli "Parthenope"
 - **Laurea Magistrale in Ingegneria della Sicurezza** – Università Telematica Pegaso
 - **Apple Developer Academy** (Base & Advanced Course)
-- **Python & Machine Learning Academy** – GiGroup - ITConsulting
 
 ---
 
 ## 🔮 Progetti 
-Ecco alcuni dei progetti sia personali, sia che ho sviluppato durante il corso Python & Machine Learning:
+Ecco alcuni dei progetti sia sviluppati durante il corso Python & Machine Learning:
 
+- [Analisi predittiva sullo stato Depressivo](https://github.com/simoneev10/MentallyStabilityOfThePerson-Prediction/tree/main): Questo progetto affronta il tema critico della salute mentale attraverso l'analisi di un dataset, con l'obiettivo di sviluppare un modello di Machine Learning capace di predire la probabilità di uno stato depressivo. Implementa una pipeline completa che include fasi di preprocessing avanzato, addestramento di diversi modelli di classificazione, valutazione delle performance e una semplice interfaccia a menu per l'interazione.
 - [Analisi New York Airbnb](https://github.com/simoneev10/SimoneVerrengia_DepositoCorsoPython/blob/main/30_04_CorsoPython_ML/EsercizioNewYorkAirbnb/EsercizioNewYorkAirbnb2.py): Script Python che mira ad "analizzare" e "pulire" un dataset riguardante gli affitti di Airbnb a New York nel 2019, per poi utilizzare modelli di machine learning (in particolare XGBoost) per prevedere il prezzo degli affitti.
 - [Analisi predittiva su churn rate](https://github.com/simoneev10/SimoneVerrengia_DepositoCorsoPython/tree/main/23_04_CorsoPython_VisualizzazioneDati/EsercizioCompagniaTelecomunicazioni): Un progetto che utilizza pandas, numpy e scikit-learn per analizzare i dati dei clienti e prevedere il churn rate di una compagnia di telecomunicazioni.
 - [Analisi Student Habits vs Performance](https://github.com/simoneev10/SimoneVerrengia_DepositoCorsoPython/tree/main/05_05_CorsoPython_ML/StudentHabitsPerformance): Script Python che analizza le performance degli studenti, partendo dalla pulizia e codifica dei dati, passando per la visualizzazione e la gestione della multicollinearità. Infine, addestra e valuta modelli di regressione (Linear Regression e XGBoost) per prevedere i punteggi degli esami.
 - [Analisi Dati Titanic](https://github.com/simoneev10/ML-Titanic): Un progetto che mira ad "esplorare" e "pulire" un dataset preso da Kaggle in formato csv, riguardante i sopravvissuti del titanic, ed infine utilizzo di un modello e per prevedere la tendenza a sopravvivere.
-- [Analisi Dati Pokémon](https://github.com/simoneev10/Progetto-DB-Pokemon/tree/Branch-Simo-): Creazione di un database sui Pokémon, si eseguono varie analisi sulle statistiche dei Pokémon, tra cui altezza, peso, esperienza di base e statistiche di combattimento
 
 ---
 
 ## ⏳ In corso - Python & Machine Learning Academy
 
 Questo repository raccoglie esercizi, appunti e progetti sviluppati durante il corso Python & Machine Learning Academy.
-Il percorso formativo parte da un’introduzione teorica con una ripetizione dei concetti fondamentali di UML (Unified Modeling Language), per poi proseguire con un apprendimento graduale del linguaggio Python, partendo dalle basi fino ad arrivare all’utilizzo delle principali librerie per la data science e il machine learning.
+Il percorso formativo parte da un’introduzione teorica con una ripetizione dei concetti fondamentali di UML (Unified Modeling Language), per poi proseguire con un apprendimento graduale del linguaggio Python, partendo dalle basi fino ad arrivare all’utilizzo delle principali librerie, e modelli per il machine learning e la data science.
 
 ---
 
